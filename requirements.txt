@@ -1,0 +1,10 @@
+streamlit>=1.38
+librosa>=0.10.2
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.9
+soundfile>=0.12
+# Optional AI insights:
+google-genai>=1.0
+python-dotenv

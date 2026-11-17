@@ -1,0 +1,21 @@
+The final project would be:
+AudioScope AI
+
+AI-Powered Audio Analysis, Classification and Similarity Search Platform
+
+Features:
+
+✅ Multi-file upload
+✅audio play button
+✅ 30+Feature Extractions
+but only display 4 to 5. 
+✅ CSV export  (All / Selected / Single):like the user can download the selected audio files features. or selected features of selected audio files you know. 
+✅ Waveform visualizations
+✅ MFCC heatmaps
+✅ Chroma heatmaps
+✅ Spectral Contrast heatmaps
+✅ Audio Similarity Search
+✅ Gemini-powered AI explanations
+
+
+umm???You are forgetting the main purpose of our project. It's for users to upload any audio they like for suppose let us say songs. And then extract main features from it. For selected songs or for everything. Then they can download it and train their models or whatever they wanna do with it. here additionally we provide waveforms,heatmaps etc for them to understand more visually too. That's our core concept.  All the other features like gemini explanation, audio similarity(like how similar the uploaded audio is similar to another uploaded audio. Let us say the user uploaded 5 songs and want to know how similar the song 1 is to the other 4 songs or the 3rd song . ) 
