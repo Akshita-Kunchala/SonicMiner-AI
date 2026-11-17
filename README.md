@@ -6,7 +6,7 @@ SonicMiner AI is an interactive audio analysis platform that allows users to upl
 
 The primary goal of SonicMiner AI is to make audio feature extraction easier and more accessible by providing users with structured audio data that they can download and use to train their own machine learning models or perform further research.
 
-## 🚀 Key Features
+##  Key Features
 
 ### 1. Audio Upload and Analysis
 - Upload multiple audio files.
@@ -145,12 +145,10 @@ streamlit run app.py
 
 The application will open in your browser.
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of SonicMiner AI is to provide users with an easy-to-use platform for extracting, understanding and exporting audio features.
 
 Instead of manually processing audio files using programming libraries, users can upload their audio files, obtain structured feature data, visualize audio characteristics and download datasets for their own machine learning experiments.
 
-## 👩‍💻 Developed With
 
-**SonicMiner AI** — Making Audio Feature Extraction and Analysis Accessible.
